@@ -45,10 +45,3 @@
 
 <h1 id="author">Autor</h1>
 <p>Projeto desenvolvido por Eduardo M. dos S. Delfino.</p>
-
-<style>
-    html
-    {
-        scroll-behavior:smooth;
-    }
-</style>
